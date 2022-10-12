@@ -1,0 +1,6 @@
+
+Dpython:S1172'",Remove the unused function parameter "name".(¤¡˜ì
+Fpython:S1172'".Remove the unused function parameter "coffee".(¤¡˜ì
+Epython:S1172'"-Remove the unused function parameter "water".(¤¡˜ì
+lpython:S3776'"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(¤¡˜ì
+dpython:S1226'"LIntroduce a new variable or use its initial value before reassigning 'cost'.(¤¡˜ì
